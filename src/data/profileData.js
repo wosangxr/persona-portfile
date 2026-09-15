@@ -31,7 +31,8 @@ export const profileData = {
             description: "A relaxing, cozy bakery simulation web game",
             icon: "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Pretzel.webp",
             buttons: [
-              { label: "", icon: "Github", url: "https://github.com/wosangxr/Baking-games" }
+              { label: "", icon: "Github", url: "https://github.com/wosangxr/Baking-games" },
+              { label: "", icon: "Web", url: "https://baking-games.vercel.app/" }
             ]
           }
         ]
