@@ -14,7 +14,7 @@ export default function ProjectCard({ project }) {
         <h3 className="text-xl md:text-2xl font-bold text-white tracking-tight truncate">
           {project.title}
         </h3>
-        <p className="text-neutral-400 text-xs md:text-sm mt-1 leading-snug line-clamp-2">
+        <p className="text-neutral-400 text-xs md:text-sm mt-1 leading-snug line-clamp-3">
           {project.description}
         </p>
 

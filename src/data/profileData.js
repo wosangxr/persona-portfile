@@ -42,7 +42,7 @@ export const profileData = {
           {
             id: "wifi-report-AI_V.2",
             title: "wifi-report-AI_V.2",
-            description: "A web application system for reporting and analyzing Wi-Fi signal issues, featuring an administrator dashboard and AI-driven data analysis.",
+            description: "Web app for reporting Wi-Fi signal issues with AI-driven analytics dashboard.",
             icon: "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp",
             buttons: [
               { label: "", icon: "Github", url: "https://github.com/wosangxr/wifi-report-AI_V.2" }
