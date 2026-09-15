@@ -54,7 +54,7 @@ export const profileData = {
             description: "This is a React Native Note Application built with SQLite.",
             icon: "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Memo.webp",
             buttons: [
-              { label: "", icon: "Github", url: "https://github.com/wosangxr" },
+              { label: "", icon: "Github", url: "https://github.com/wosangxr/Note-App" },
             ]
           }
         ]
@@ -88,7 +88,7 @@ export const profileData = {
             description: "Shift Management and Payroll Calculation System",
             icon: "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Money%20With%20Wings.webp",
             buttons: [
-              { label: "", icon: "Github", url: "https://github.com/wosangxr" },
+              { label: "", icon: "Github", url: "https://github.com/wosangxr/shift-management" },
             ]
           }
         ]
